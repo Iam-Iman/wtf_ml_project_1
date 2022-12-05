@@ -1,2 +1,3 @@
-# wtf_ml_project_1
-Group8 ML Project 
+# wtf_class_ml_project_1
+
+A group machine learning project.
